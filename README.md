@@ -43,6 +43,11 @@ One obvious gameplay anomaly — a player with **49,854 game rounds** — was re
 
 ---
 
+## A/B Testing Report
+
+![A/B Testing Report](A_B_test_report.png)
+
+
 ## 📊 Key Results
 
 | Metric              | Gate 30 | Gate 40 | Difference | p-value |
